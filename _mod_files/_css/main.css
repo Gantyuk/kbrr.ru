@@ -1,0 +1,94 @@
+/* Cmall news */
+
+.b-cmall-inst-basepress-CmallNews-item-row__body-name-link{
+	font-size:18px;
+}
+.b-cmall-inst-basepress-CmallNews-item-row__footer-fdate{
+	color:#777;
+    margin-right:15px;
+}
+.b-cmall-inst-basepress-CmallNews-item-row__footer-forum-link{
+    color:#777;
+	font-size:12px;
+	text-decoration:none;
+}
+.b-cmall-inst-basepress-CmallNews-item-row__footer-forum-link:hover,
+.b-cmall-inst-basepress-CmallNews-item-row__footer-forum-link:focus{
+	text-decoration:none;
+}
+.fa.fa-comments-o.b-cmall-inst-basepress-CmallNews-item-row__footer-forum-link-icon{
+	font-size:18px;
+    color:#777;
+}
+.fa.fa-thumbs-up.b-cmall-ext-rating-like-rating-form__thumbs-icon{
+	font-size:18px;
+    color:#777;
+}
+.b-cmall-ext-rating-like-rating-form__thumbs.pull-left{
+	cursor:pointer;
+}
+.b-cmall-inst-basepress-CmallNews-item-row__footer-rating{
+	margin-right:15px;
+}
+.pull-left.b-cmall-ext-rating-like-rating-form__count{
+	line-height:22px;
+	margin:0 0 0 2px;
+    font-size:12px;
+}
+.b-cmall-inst-basepress-CmallNews-browse-item-row__item{
+	margin-bottom:10px;
+}
+.b-cmall-inst-basepress-CmallNews-browse-item-row__item:last-child{
+	margin-bottom:0;
+}
+.b-cmall-inst-basepress-CmallNews-browse-item-row__item-name{
+	font-size:16px;
+}
+.b-cmall-relations-CmallNews-small-list__title{
+	margin-top:0;
+}
+.news_item-row__announce{
+	margin:0;
+	padding:0;
+}
+
+/* Cmall articles */
+
+.articles_item-row__announce{
+	margin:0;
+    padding:0;
+}
+.articles_item-cat-row__header{
+	margin:0 !important;
+	padding:15px 0 0 !important;
+}
+
+/* Cmall portfolio */
+
+.b-cmall-portfolio_item_list-item-row__body-name-link{
+    font-size:18px;
+}
+.b-cmall-portfolio_catalog-catD_row__item-name-link{
+    font-size: 15px;
+}
+.b-cmall-portfolio_catalog-catD_row__item-pic{
+    overflow:hidden;
+    margin-bottom:25px;
+}
+.b-cmall-portfolio_catalog-catD_row__item-img{
+    margin-bottom:0;
+    max-height:145px;
+    min-height:145px;
+}
+.b-cmall-portfolio_catalog-catD_row__item-name{
+    overflow:hidden;
+}
+.b-cmall-portfolio_item_list-item-row__body-name-pic{
+	padding-right:10px;
+    display:block;
+    float:left;
+}
+#b-cmall-portfolio_item_list-contacts-map-wrapper{
+    border:1px solid #feffff;
+    margin:20px 0;
+}

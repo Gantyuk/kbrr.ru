@@ -1,0 +1,392 @@
+/* Cmall adv banners */
+
+.b-cmall-adv-eshop{
+    padding-top:20px;
+}
+.b-cmall-adv-eshop__item-wrapper{
+	clear:none;
+}
+.b-cmall-adv-eshop__item{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#da726d+0,b15853+100 */
+	background: #da726d; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNkYTcyNmQiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYjE1ODUzIiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-radial-gradient(center, ellipse cover,  #da726d 0%, #b15853 100%); /* FF3.6-15 */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#da726d), color-stop(100%,#b15853)); /* Chrome4-9,Safari4-5 */
+	background: -webkit-radial-gradient(center, ellipse cover,  #da726d 0%,#b15853 100%); /* Chrome10-25,Safari5.1-6 */
+	background: -o-radial-gradient(center, ellipse cover,  #da726d 0%,#b15853 100%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover,  #da726d 0%,#b15853 100%); /* IE10 preview */
+	background: radial-gradient(ellipse at center,  #da726d 0%,#b15853 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#da726d', endColorstr='#b15853',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+}
+.b-cmall-adv-eshop__item-2{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cd835b+0,b66d46+100 */
+	background: #cd835b; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjZDgzNWIiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYjY2ZDQ2IiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-radial-gradient(center, ellipse cover,  #cd835b 0%, #b66d46 100%); /* FF3.6-15 */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#cd835b), color-stop(100%,#b66d46)); /* Chrome4-9,Safari4-5 */
+	background: -webkit-radial-gradient(center, ellipse cover,  #cd835b 0%,#b66d46 100%); /* Chrome10-25,Safari5.1-6 */
+	background: -o-radial-gradient(center, ellipse cover,  #cd835b 0%,#b66d46 100%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover,  #cd835b 0%,#b66d46 100%); /* IE10 preview */
+	background: radial-gradient(ellipse at center,  #cd835b 0%,#b66d46 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cd835b', endColorstr='#b66d46',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+    margin:0 0 29px;
+}
+.b-cmall-adv-eshop__item-3{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ca9f6d+0,b08859+100 */
+	background: #ca9f6d; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjYTlmNmQiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYjA4ODU5IiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-radial-gradient(center, ellipse cover,  #ca9f6d 0%, #b08859 100%); /* FF3.6-15 */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#ca9f6d), color-stop(100%,#b08859)); /* Chrome4-9,Safari4-5 */
+	background: -webkit-radial-gradient(center, ellipse cover,  #ca9f6d 0%,#b08859 100%); /* Chrome10-25,Safari5.1-6 */
+	background: -o-radial-gradient(center, ellipse cover,  #ca9f6d 0%,#b08859 100%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover,  #ca9f6d 0%,#b08859 100%); /* IE10 preview */
+	background: radial-gradient(ellipse at center,  #ca9f6d 0%,#b08859 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ca9f6d', endColorstr='#b08859',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+}
+.b-cmall-adv-eshop__item-4{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7ca7c3+0,638da8+100 */
+	background: #7ca7c3; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM3Y2E3YzMiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNjM4ZGE4IiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-radial-gradient(center, ellipse cover,  #7ca7c3 0%, #638da8 100%); /* FF3.6-15 */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#7ca7c3), color-stop(100%,#638da8)); /* Chrome4-9,Safari4-5 */
+	background: -webkit-radial-gradient(center, ellipse cover,  #7ca7c3 0%,#638da8 100%); /* Chrome10-25,Safari5.1-6 */
+	background: -o-radial-gradient(center, ellipse cover,  #7ca7c3 0%,#638da8 100%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover,  #7ca7c3 0%,#638da8 100%); /* IE10 preview */
+	background: radial-gradient(ellipse at center,  #7ca7c3 0%,#638da8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7ca7c3', endColorstr='#638da8',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+}
+.b-cmall-about-eshop__body{
+	margin:20px 0 0;
+}
+
+/* Cmall eshop special */
+
+.owl-item:first-child .b-cmall-eshop-spec__item-wrapper{
+	padding-left:0 !important;
+}
+.b-cmall-product-head__title{
+    background:none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border:medium none;
+    color:#337ab7;
+    font-size:20px;
+    margin:0 0 10px;
+    padding:10px 0;
+}
+.nav.nav-tabs.b-cmall-pm-spec_eshop_special-tab__list{
+    border:medium none;
+}
+.b-cmall-pm-spec_eshop_special-tab__item:first-child .b-cmall-pm-spec_eshop_special-tab__item-link{
+	padding-left:0;
+}
+.b-cmall-pm-spec_eshop_special-tab__item:last-child .b-cmall-pm-spec_eshop_special-tab__item-link{
+	padding-right:0;
+}
+.b-cmall-pm-spec_eshop_special-tab__item-link{
+    border:medium none !important;
+    font-size:24px;
+    font-weight:700;
+    color:#212121;
+    padding-top:0 !important;
+    padding-bottom:28px !important;
+    line-height:1 !important;
+}
+.b-cmall-pm-spec_eshop_special-tab__item-link:hover,
+.b-cmall-pm-spec_eshop_special-tab__item-link:focus{
+    background:none !important;
+}
+.nav-tabs > li.active > .b-cmall-pm-spec_eshop_special-tab__item-link,
+.nav-tabs > li.active > .b-cmall-pm-spec_eshop_special-tab__item-link:focus,
+.nav-tabs > li.active > .b-cmall-pm-spec_eshop_special-tab__item-link:hover{
+    color:#4d7ea3;
+}
+#owl-product .owl-controls .owl-nav .owl-prev,
+#owl-product1 .owl-controls .owl-nav .owl-prev,
+#owl-product2 .owl-controls .owl-nav .owl-prev,
+#owl-product .owl-controls .owl-nav .owl-next,
+#owl-product1 .owl-controls .owl-nav .owl-next,
+#owl-product2 .owl-controls .owl-nav .owl-next{
+	top:-47px;
+}
+.b-cmall-eshop-spec__item-btn-cart-splitter{
+    background:#d5d5d5 none repeat scroll 0 0;
+    display:none;
+    height:28px;
+    position:absolute;
+    right:30px;
+    top:6px;
+    width:1px;
+}
+
+/* Cmall news special */
+
+.b-cmall-news-special__title{
+    color:#222 !important;
+    font-size:24px;
+    font-weight:700;
+    margin:0 0 10px;
+    padding:10px 0;
+}
+.b-cmall-news-special{
+    margin:0 0 5px;
+}
+.b-cmall-news-special__item{
+  margin-bottom:0;
+}
+.b-cmall-news-special__item-date{
+	color:#8a8a8a;
+    font-size:13px;
+    padding:0 0 5px;
+}
+.b-cmall-news-special__item-name{
+    line-height:21px;
+}
+.b-cmall-news-special__item-name-link{
+    font-size:14px;
+    font-weight:700;
+    line-height:inherit;
+    color:#4d7ea3;
+}
+.b-cmall-news-special__item-name-link:hover,
+.b-cmall-news-special__item-name-link:focus{
+    color:#ffa600;
+}
+.b-cmall-news-special__item-announce{
+    margin:10px 0 20px;
+    font-size:14px;
+    color:#212121;
+    line-height:21px;
+}
+
+/* Cmall about eshop */
+
+.b-cmall-about-eshop{
+	margin:0;
+}
+.b-cmall-about-eshop__title{
+    color:#222 !important;
+    font-size:24px;
+    margin:0 0 10px;
+    padding:10px 0;
+    font-weight:normal;
+}
+
+/* Cmall about advantage */
+
+.b-cmall-about-advantage{
+    background:#353a3e;
+    margin:20px 0 0;
+    position:relative;
+}
+.b-cmall-about-advantage:before{
+    background:#353a3e;
+    right:100%;
+}
+.b-cmall-about-advantage:after{
+    background:#353a3e;
+    left:100%;
+}
+.b-cmall-about-advantage:before,
+.b-cmall-about-advantage:after {
+    bottom:0;
+    content:"";
+    position:absolute;
+    top:0;
+    width:9999px;
+    border-bottom:solid 3px #1f2325;
+}
+.b-cmall-about-advantage__list{
+    border-bottom:solid 3px #1f2325;
+    padding:20px 0;
+}
+.b-cmall-about-advantage__item{
+	text-align:left;
+}
+.b-cmall-about-advantage__item-icon{
+	color:#337ab7;
+    font-size:40px;
+}
+.b-cmall-about-advantage__item-name{
+    padding-left:0;
+}
+.b-cmall-about-advantage__item-name-title{
+    color:#fff;
+    font-size:21px;
+    font-weight:normal;
+    line-height:22px;
+}
+.b-cmall-about-advantage__title{
+    color:#222 !important;
+    font-size:22px;
+    margin:0 0 10px;
+    padding:10px 0;
+}
+.b-cmall-about-advantage__item-description{
+    font-size:14px;
+    margin:0 0 30px;
+}
+.b-cmall-about-advantage blockquote footer:before{
+	content:none;
+}
+.b-cmall-about-advantage__item-splitter{
+	border-top:solid 1px #212121;
+    border-bottom:solid 1px #4e4e4e;
+    margin:12px 0;
+}
+
+/* Cmall medium devices */
+
+@media (max-width: 991px) {
+
+/* Cmall adv banners */
+    
+    .b-cmall-adv-eshop__item{
+    	margin:0 0 8px;
+    }
+    
+/* Cmall about advantage */
+
+	.b-cmall-about-advantage__item-name-title{
+    	font-size:18px;
+    	font-weight:normal;
+    	line-height:22px;
+	}
+}
+
+/* Cmall extra small devices */
+
+@media (max-width: 767px) {
+
+/* Cmall Eshop Special */
+    
+    .b-cmall-onspecial_pic{
+    	padding-top:2px;
+        margin:0;
+    }
+    .b-cmall-onspecial_pic > span{
+    	font-size:12.5px;
+    }
+    .b-cmall-eshop-spec__item-pic{
+    	max-height:135px;
+    	min-height:135px;
+    }
+    .b-cmall-eshop-spec__item-img{
+    	max-height:125px;
+    }
+    .b-cmall-pm-spec_eshop_special-tab__item-link{
+    	font-size:19px;
+        padding-bottom:22px !important;
+    }
+    .b-cmall-pm-spec_eshop_special-tab__item:nth-child(2) .b-cmall-pm-spec_eshop_special-tab__item-link{
+        padding-left:7px;
+        padding-right:7px;
+    }
+    .b-cmall-eshop-spec__item h4,
+    .b-cmall-eshop-spec__item h4 a{
+    	font-size:12px;
+        line-height:17px;
+    }
+    .b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-price{
+    	line-height:1;
+        padding-top:5px;
+    }
+    .b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-price span.b-cmall-eshop-spec__item-price-old{
+    	font-size:12px;
+    }
+    .b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-price span.b-cmall-eshop-spec__item-price-new{
+    	font-size:13px;
+    }
+    .b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-btn-cart{
+        border-bottom:1px solid #ff6200;
+    	font-size:14px;
+        padding:4px 8px;
+    }
+	.b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-btn-cart .fa {
+    	/*height:19px;*/
+    	margin-right:3px;
+    	/*top:-2px;
+    	width:23px;
+    	background:url("../../_img/cmall/101/icon__CmallEshopSpecAddToCartMobile.png") 0 0 no-repeat;*/
+	}
+    .b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-btn-wishlist{
+    	right:45px;
+    }
+	.b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-btn-wishlist .fa{
+    	/*background:url("../../_img/cmall/101/icon__CmallEshopSpecOneClickMobile.png") 0 0 no-repeat;
+    	height:13px;
+    	width:9px;*/
+	}
+	.b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-btn-wishlist:hover .fa{
+    	/*background:url("../../_img/cmall/101/icon__CmallEshopSpecOneClickMobileHover.png") 0 0 no-repeat;*/
+	}
+    .b-cmall-eshop-spec__item-btn-cart-splitter{
+    	right:32px;
+        /*height:23px;
+        top:7px;*/
+    }
+	.b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-btn-compare .fa{
+    	/*background:url("../../_img/cmall/101/icon__CmallEshopSpecAddToCompareMobile.png") 0 0 no-repeat;
+    	height:13px;
+    	width:15px;*/
+	}
+
+/* Cmall news special */
+
+	.b-cmall-news-special__title{
+    	font-size:19px;
+        margin:0;
+	}
+    
+/* Cmall about advantage */
+
+	.b-cmall-about-advantage__item-name-title{
+    	font-size:15px;
+    	line-height:14px;
+	}
+
+/* Cmall news special */
+
+	.b-cmall-news-special__item-announce{
+    	margin:10px 0 0;
+	}
+    
+/* Cmall about eshop */
+
+	.b-cmall-about-eshop__body{
+    	margin:10px 0 0;
+    }
+    .b-cmall-about-eshop{
+		margin:0;
+	}
+	.b-cmall-about-eshop__title{
+    	font-size:20px;
+    	margin:0 0 5px;
+	}
+    .b-cmall-stickers__CmallAboutEshop-small_row__item-announce{
+    	line-height:16px;
+    }
+    
+}
+
+/* Cmall mini devices */
+
+@media (max-width: 359px) {
+    
+/* Cmall Eshop Special */
+    
+    .b-cmall-pm-spec_eshop_special-tab__item-link{
+    	font-size:17px;
+        padding-bottom:20px !important;
+    }
+    .b-cmall-pm-spec_eshop_special-tab__item:nth-child(2) .b-cmall-pm-spec_eshop_special-tab__item-link{
+        padding-left:5px;
+        padding-right:5px;
+    }
+    .b-cmall-eshop-spec__item .b-cmall-eshop-spec__item-price span.b-cmall-eshop-spec__item-price-old{
+    	padding-right:0;
+    }
+    
+}

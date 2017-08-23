@@ -1,0 +1,68 @@
+/* Filter */
+
+.filter-panel {width: 290px; padding-bottom: 12px; bottom:0px; right:0px; position: absolute;}
+.filter-block {padding-top: 40px;}
+.flt_element {line-height: 32px; display: inline-block; white-space: nowrap; padding:0px 22px 0px 8px;}
+.filter-panel .l-lb-c, .filter-panel .l-lt-c, .filter-panel .l-rt-c, .l-rb-c, .l-lt-c, .l-rt-c, .l-lb-c, .l-lb-c, .filter-block {background: none}
+.filter_box {width: auto; background-color: #fff; border-radius: 10px; padding: 8px 10px; margin-bottom: 0px; border: 1px solid #F0F0F0;}
+
+/* Pagination */
+
+#paga {height: 48px; padding-top: 0px; padding-left: 15px;}
+div.paginationSize {float: right;line-height: 0px;margin-top: 10px; padding-left: 15px;}
+div.pagination{line-height: 24px; float: right; cursor: default; margin: 6px 0px 8px 3px; }
+div.pagination a, div.pagination a:hover{ font-size: 14px; padding: 3px 6px 3px 6px; background-color: #F2F2F2; text-decoration: none; border-radius: 5px}
+div.pagination a:hover{ background-color: #ccc; }
+div.pagination span{ font-size: 14px; color: #fff; padding: 3px 6px 3px 6px; background-color: #999; cursor: default; border-radius: 5px}
+select.pagination-select{ font-size: 14px; }
+
+/* Form */
+
+.table_sticker {background: #fff; font-size: 12px;font-weight: normal;padding: 0px 10px 10px 10px;}
+#div_properties_form tr {height: 30px;}
+#div_properties_form table {}
+#messages_table_add {box-shadow: #666 0px 0px 15px 5px; border-radius: 0px 0px 10px 10px;}
+#add_center_top_img {font-weight: bold; padding-left: 10px; background: #F0F0F0; height: 34px; border-radius: 10px 10px 0px 0px;}
+#add_left_tr {display: none;}
+
+/* Private Messages */
+
+div.private_messages_filter { float: left; padding: 5px; cursor: pointer; display: block; color: black; font-weight: bold; border-radius: 5px; background-color: #F2F2F2; margin-right: 10px; }
+div.private_messages_filter.selected { background-color: #999; color: white; cursor: default; }
+#folders_buttons {padding-top: 10px;}
+div.private_messages_filter:hover { background-color: #ccc; }
+#edit_message_form {border:1px solid #d9d9d9; border-radius: 10px; padding: 15px; width:100%; margin-bottom: 10px;}
+#add_messages_edit {margin-top:20px;}
+#edit_block_messages {border:1px dotted #555555; padding:10px;}
+#padding_edit_messages {height: 20px;}
+input#read_all_messages, #text_input, .text_button, #read_all_messages {width: auto; height: auto; text-decoration: none; cursor: pointer; font-weight: normal; color: #000000; float: left; margin-top: 14px; margin-bottom: 5px; padding: 0px; border-style: none none dashed; border-color: #000000; border-width: 0 0 1px; background: none;}
+#read_all_messages {font-weight: normal;}
+span.text_button {padding: 0px 1px;float: none; cursor: pointer;}
+.filter_box input.btn {margin-top: 7px; margin-bottom: 4px;}
+#compose_message_div {margin: 15px 0;}
+
+/* Calendar Icons */
+
+.clnd_img {background: url(../60/icons/calendar.gif);}
+a:hover .clnd_img {background: url(../60/icons/calendar-over.gif);}
+
+/* Loader */
+
+div.componentLoader{background: url(../60/images/loading.gif) 50% 50% no-repeat; }
+
+/* Item list action icons */
+
+a.list-icon{background: url('../60/icons/icons-list.gif') 0px 0px no-repeat;}
+a.list-icon:hover{ background: url('../60/icons/icons-list.gif') -24px 0px no-repeat; }
+div.amiModuleLink{ background-image: url('../60/icons/icons-list.gif'); }
+a.sortAsc div{ background-image: url('../60/icons/icon-inc.gif'); }
+a.sortDesc div{ background-image: url('../60/icons/icon-dec.gif'); }
+a.sortAscSel div{ background-image: url('../60/icons/icon-inc-sel.gif'); }
+a.sortDescSel div{ background-image: url('../60/icons/icon-dec-sel.gif'); }
+.icon-grp_read div {background-image: url("../60/icons/icons-list.gif"); background-position: -338px 0;}
+.text_button {padding: 0px 8px;}
+
+/* Position control */
+
+div.posItem, span.posItem{background: url(/_mod_files/60/icons/icon-pos_control.gif) no-repeat;}
+#status-block .closeButton {background: url(/_img/close_alert_60.gif);}
